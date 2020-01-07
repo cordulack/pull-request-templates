@@ -1,1 +1,1 @@
-# pull-request-templates
+# GitHub Pull Request Templates
