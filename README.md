@@ -1,7 +1,6 @@
 # GitHub Pull Request Templates
-GitHub allows you to create some text that it will put into the text box when someone opens a Pull Request. All you need
-to do is create a markdown file called `pull_request_template.md` and put in a directory named `./github` in the root of
-your repo. 
+GitHub allows you to create default text for Pull Requests. All you need to do is create a markdown file named 
+`pull_request_template.md` and put in a `./github` directory in the root of your repo. 
 
 [See the Pull Request Template for this repo](https://github.com/cordulack/pull-request-templates/blob/master/.github/pull_request_template.md)
 
