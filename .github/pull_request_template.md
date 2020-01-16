@@ -1,23 +1,21 @@
 # Overview
-[Describe what you did, any gotchas, or stuff you want to brag about :D]
+[Describe what you did, any gotchas, things you want reviewers to specifically look at, or stuff you want to brag about :D]
 
 # Checklist
-* Is there anything you want reviewers to look at specifically?
+* [ ] This code is free of linting errors
 
-* Are our linting tools configured to cover the code you are working on and is your code free of linting errors?
+* [ ] Any new functionality is covered by unit tests
 
-* Are our unit testing tools set up and did you write new tests to cover any new functionality?
+* [ ] All existing unit tests pass
 
-* Do existing unit tests pass?
+* [ ] All new code is appropriately commented including docblocks for functions and classes
 
-* Is your code appropriately commented and did you include docblocks for functions and classes?
+* [ ] Any reusable components or utility classes have been added to the Pattern Library
 
-* Did you add any reusable components or utility classes to our library?
+* [ ] When appropriate, html markup uses existing utility classes
 
-* Does your CSS take advantage of existing utility classes?
+* [ ] If it makes sense, we have created or updated documentation related to this feature
 
-* Have you created or updated any documentation related to this feature?
+* [ ] If there were comps attached to this issue, the designers have looked at this feature
 
-* If there were comps attached to this issue, have the designers looked at the feature yet?
-
-* If this is a reader-facing feature, does this feature work in IE11 (and other browsers)?
+* [ ] If this is a reader-facing feature, this feature works in IE11 (and other browsers)
